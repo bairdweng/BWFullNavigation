@@ -1,0 +1,16 @@
+PODS:
+  - BWFullNavigation (0.1.0)
+
+DEPENDENCIES:
+  - BWFullNavigation (from `../`)
+
+EXTERNAL SOURCES:
+  BWFullNavigation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BWFullNavigation: 0cc627d5b3df987b440a3491332fecf511755c1c
+
+PODFILE CHECKSUM: 51386a5a1b16f18e1daabb75d05cb8561e0c8b5f
+
+COCOAPODS: 1.9.3
